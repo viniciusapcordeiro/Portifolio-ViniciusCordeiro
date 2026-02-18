@@ -2,7 +2,7 @@
 
 <img src="assets/img/Perfil.jpg" alt="Imagem do projeto finalizado">
 
-<h4 align="center"><a href="https://vinicius-cordeiro.netlify.app/" target="_blank" >Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://viniciusapcordeiro.github.io/responsive-portfolio-website-Vinicius-Cordeiro/" target="_blank" >Confira o projeto aqui</a></h4>
 
 
 ## 🤯 O site é composto por:
