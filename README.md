@@ -1,6 +1,6 @@
 <h1 align="center"> Portifólio Pessoal</h1>
 
-<img src="assets/img/Portifolio.jpg" alt="Imagem do projeto finalizado">
+<img src="assets/img/Perfil.jpg" alt="Imagem do projeto finalizado">
 
 <h4 align="center"><a href="https://vinicius-cordeiro.netlify.app/" target="_blank" >Confira o projeto aqui</a></h4>
 
